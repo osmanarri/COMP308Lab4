@@ -2,7 +2,7 @@
 //https://github.com/PacktPublishing/Hands-on-Machine-Learning-with-TensorFlow.js/tree/master/Section5_4
 //
 const tf = require('@tensorflow/tfjs');
-    require('@tensorflow/tfjs-node');
+    // require('@tensorflow/tfjs-node');
     //load iris training and testing data
     const iris = require('../../iris.json');
     const irisTesting = require('../../iris-testing.json');
